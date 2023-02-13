@@ -1,0 +1,139 @@
+,premise,hypothesis,label
+0,Buen día.,Saludo,0
+1,¿Cómo se encuentra el día de hoy?,Saludo,0
+2,Espero que no llame más hasta el día del juicio final.,Saludo,1
+3,Es un día lluvioso.,Saludo,1
+4,Le doy la bienvenida a nuestro centro de ayuda.,Saludo,0
+5,Espero se encuentre bien el día de hoy.,Saludo,0
+6,Son buenos los días en verano.,Saludo,1
+7,Es un gusto saludarlo.,Saludo,0
+8,No es un gusto saludarlo.,Saludo,0
+9,Hace calor hoy.,Saludo,1
+10,Buenas tardes.,Saludo,0
+11,Buenas noches.,Saludo,0
+12,Buenos días.,Saludo,0
+13,¿Cómo está?,Saludo,0
+14,Muy buenos días.,Saludo,0
+15,Muy buenas tardes.,Saludo,0
+16,Muy buenas noches.,Saludo,0
+17,Excelente día.,Saludo,0
+18,¿Qué tal?,Saludo,0
+19,¿Qué tal está?,Saludo,0
+20,¿Cómo estás?,Saludo,0
+21,¿Cómo le va?,Saludo,0
+22,¿Cómo te va?,Saludo,0
+23,¿Cómo está usted?,Saludo,0
+24,Que gusto poder atenderlo.,Saludo,0
+25,Espero se encuentre bien.,Saludo,0
+26,Hola!,Saludo,0
+27,Hoy no es mi día.,Saludo,1
+28,He tenido un día fatal.,Saludo,1
+29,¿Cómo está el helado?,Saludo,1
+30,¿Cómo pudo llegar el día?,Saludo,1
+31,¿Cómo lo puedo ayudar?,Ayuda,0
+32,¿Cómo se encuentra el día de hoy?,Ayuda,1
+33,¡Qué difícil es la tarea de atender al público!,Ayuda,1
+34,¿Cómo lo puedo matar?,Ayuda,1
+35,Le doy la bienvenida.,Ayuda,1
+36,Espero poder ayudarlo el día de hoy,Ayuda,0
+37,¿En qué podemos ayudarlo en este momento?,Ayuda,0
+38,Es un gusto atender su consulta.,Ayuda,0
+39,No es un gusto atender su consulta.,Ayuda,1
+40,Hay muchas consultas hoy.,Ayuda,1
+41,"Es un gusto asistirle, dígame ¿Cómo?",Ayuda,0
+42,¿En qué puedo servirle?,Ayuda,0
+43,¿Qué necesita?,Ayuda,0
+44,Estoy a su disposición para asistirle.,Ayuda,0
+45,Dígame ¿cómo lo puedo ayudar?,Ayuda,0
+46,¿Qué tengo que hacer para que no llame más?,Ayuda,1
+47,Buen día.,Ayuda,1
+48,Espero que no llame más hasta el día del juicio final.,Ayuda,1
+49,Es un día lluvioso.,Ayuda,1
+50,Le doy la bienvenida a nuestro centro de ayuda.,Ayuda,1
+51,Espero se encuentre bien el día de hoy.,Ayuda,1
+52,Son buenos los días en verano.,Ayuda,1
+53,Es un gusto saludarlo.,Ayuda,0
+54,No es un gusto saludarlo.,Ayuda,1
+55,Hace calor hoy.',Ayuda,1
+56,Buenas tardes.,Saludo,0
+57,Buenas noches.,Saludo,0
+58,Buenos días.,Saludo,0
+59,¿Cómo está?,Saludo,0
+60,Muy buenos días.,Saludo,0
+61,Muy buenas tardes.,Saludo,0
+62,Muy buenas noches.,Saludo,0
+63,Excelente día.,Saludo,0
+64,¿Qué tal?,Saludo,0
+65,¿Qué tal está?,Saludo,0
+66,¿Cómo estás?,Saludo,0
+67,¿Cómo le va?,Saludo,0
+68,¿Cómo te va?,Saludo,0
+69,¿Cómo está usted?,Saludo,0
+70,Que gusto poder atenderlo.,Saludo,0
+71,Espero se encuentre bien.,Saludo,0
+72,¿Cómo lo puedo ayudar?,Saludo,1
+73,Qué difícil es la tarea de atender al público.,Saludo,1
+74,¿Cómo lo puedo matar?,Saludo,1
+75,Le doy la bienvenida.,Saludo,0
+76,Espero poder ayudarlo el día de hoy.,Saludo,1
+77,¿En qué podemos ayudarlo en este momento?,Saludo,1
+78,Es un gusto atender su consulta.,Saludo,1
+79,No es un gusto atender su consulta.,Saludo,1
+80,Hay muchas consultas hoy.,Saludo,1
+81,¿Cómo se encuentra el día de hoy?,Saludo,0
+82,¡Hola! ¿Cómo estás?,Saludo,0
+83,¡Buenos días! ¿Listo para empezar el día?,Saludo,0
+84,¡Buenas tardes! ¿Cómo ha sido tu día?,Saludo,0
+85,¡Buenas noches! ¿Listo para descansar?,Saludo,0
+86,¡Bienvenido! ¡Espero que tengas un buen día!,Saludo,0
+87,¡Saludos! ¿Qué planes tienes hoy?,Saludo,0
+88,¡Hola amigo! ¡Qué bueno verte!,Saludo,0
+89,¡Hola! ¿Cómo te ha ido?,Saludo,0
+90,¡Hola! ¿Qué noticias tienes?,Saludo,0
+91,¡Hola! ¿Cómo te sientes hoy?,Saludo,0
+92,¡Hola! ¿Cómo te ha ido la semana?,Saludo,0
+93,¡Hola! ¿Cómo te ha ido el fin de semana?,Saludo,0
+94,¡Hola! ¿Qué tal tu día?,Saludo,0
+95,¡Hola! ¿Cómo está tu familia?,Saludo,0
+96,¡Hola! ¿Cómo están tus amigos?,Saludo,0
+97,¡Hola! ¿Cómo está tu trabajo?,Saludo,0
+98,¡Hola! ¿Cómo estás de salud?,Saludo,0
+99,¡Hola! ¿Cómo está tu estudio?,Saludo,0
+100,¡Hola! ¿Qué has estado haciendo últimamente?,Saludo,0
+101,¡Hola! ¿Cómo está tu vida?,Saludo,0
+102,¡Hola! ¿Cómo está tu día?,Saludo,0
+103,¡Hola! ¿Qué has estado haciendo?,Saludo,0
+104,¡Hola! ¿Cómo te ha ido la semana?,Saludo,0
+105,¡Hola! ¿Qué planes tienes para hoy?,Saludo,0
+106,¡Hola! ¿Cómo te sientes hoy?,Saludo,0
+107,¡Hola! ¿Cómo te ha ido el fin de semana?,Saludo,0
+108,¡Hola!,Saludo,0
+109,Hola de nuevo.,Saludo,0
+110,¡Hola! ¿Cómo estás?,Ayuda,1
+111,¡Buenos días! ¿Listo para empezar el día?,Ayuda,1
+112,¡Buenas tardes! ¿Cómo ha sido tu día?,Ayuda,1
+113,¡Buenas noches! ¿Listo para descansar?,Ayuda,1
+114,¡Bienvenido! ¡Espero que tengas un buen día!,Ayuda,1
+115,¡Saludos! ¿Qué planes tienes hoy?,Ayuda,1
+116,¡Hola amigo! ¡Qué bueno verte!,Ayuda,1
+117,¡Hola! ¿Cómo te ha ido?,Ayuda,1
+118,¡Hola! ¿Qué noticias tienes?,Ayuda,1
+119,¡Hola! ¿Cómo te sientes hoy?,Ayuda,1
+120,¡Hola! ¿Cómo te ha ido la semana?,Ayuda,1
+121,¡Hola! ¿Cómo te ha ido el fin de semana?,Ayuda,1
+122,¡Hola! ¿Qué tal tu día?,Ayuda,1
+123,¡Hola! ¿Cómo está tu familia?,Ayuda,1
+124,¡Hola! ¿Cómo están tus amigos?,Ayuda,1
+125,¡Hola! ¿Cómo está tu trabajo?,Ayuda,1
+126,¡Hola! ¿Cómo estás de salud?,Ayuda,1
+127,¡Hola! ¿Cómo está tu estudio?,Ayuda,1
+128,¡Hola! ¿Qué has estado haciendo últimamente?,Ayuda,1
+129,¡Hola! ¿Cómo está tu vida?,Ayuda,1
+130,¡Hola! ¿Cómo está tu día?,Ayuda,1
+131,¡Hola! ¿Qué has estado haciendo?,Ayuda,1
+132,¡Hola! ¿Cómo te ha ido la semana?,Ayuda,1
+133,¡Hola! ¿Qué planes tienes para hoy?,Ayuda,1
+134,¡Hola! ¿Cómo te sientes hoy?,Ayuda,1
+135,¡Hola! ¿Cómo te ha ido el fin de semana?,Ayuda,1
+136,¡Hola!,Ayuda,1
+137,Hola de nuevo.,Ayuda,1
