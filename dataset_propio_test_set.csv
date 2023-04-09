@@ -1,0 +1,81 @@
+index;premise;hypothesis;label
+0;¿Puedo ayudarte con algo?;Ayuda;0
+1;Si necesitas cualquier cosa, no dudes en pedírmelo.;Ayuda;0
+2;¿Quieres que te eche una mano?;Ayuda;0
+3;Si necesitas alguien que te ayude a mover muebles, estaré encantado/a de hacerlo.;Ayuda;0
+4;¿Te gustaría que te acompañe al médico?;Ayuda;0
+5;¿Quieres que te ayude a preparar la cena?;Ayuda;0
+6;Si necesitas una persona que te escuche, puedes contar conmigo.;Ayuda;0
+7;¿Quieres que te lleve a la estación de tren?;Ayuda;0
+8;¿Necesitas ayuda con la mudanza?;Ayuda;0
+9;Si necesitas cualquier cosa durante el evento, por favor, házmelo saber.;Ayuda;0
+10;Me gusta mucho el color de tu camisa.;Ayuda;1
+11;No puedo creer que haya tanto tráfico hoy.;Ayuda;1
+12;¿Has leído el último libro de Stephen King?;Ayuda;1
+13;Me encanta viajar y conocer nuevas culturas.;Ayuda;1
+14;¿Ya has ido a ese nuevo restaurante de comida mexicana?;Ayuda;1
+15;¿Te gusta la música clásica?;Ayuda;1
+16;Estoy pensando en comprarme un nuevo teléfono móvil.;Ayuda;1
+17;¿Tienes planes para el fin de semana?;Ayuda;1
+18;La verdad es que no me gusta mucho el invierno.;Ayuda;1
+19;Me gustaría visitar algún día la ciudad de Nueva York.;Ayuda;1
+20;Hola, ¿cómo estás?;Saludo;0
+21;Buen día, ¿cómo te va?;Saludo;0
+22;Buenos días, ¿cómo amaneciste?;Saludo;0
+23;Hola, ¿qué tal estás?;Saludo;0
+24;Buenas tardes, ¿cómo ha ido tu día?;Saludo;0
+25;Hola, ¿qué hay de nuevo?;Saludo;0
+26;¿Qué tal todo?;Saludo;0
+27;Hola, ¿cómo te sientes hoy?;Saludo;0
+28;Buen día, ¿cómo ha estado tu semana?;Saludo;0
+29;Hola, ¿cómo te ha ido últimamente?;Saludo;0
+30;El cielo está muy despejado hoy.;Saludo;1
+31;¿Has visto la última película de terror que salió?;Saludo;1
+32;¿Qué opinas del cambio climático?;Saludo;1
+33;Tengo mucho trabajo que hacer hoy.;Saludo;1
+34;No puedo creer que ya sea marzo.;Saludo;1
+35;¿Ya hiciste tus compras de la semana?;Saludo;1
+36;Me encanta leer novelas de misterio.;Saludo;1
+37;¿Te gustan los animales exóticos?;Saludo;1
+38;La verdad es que estoy muy cansado/a.;Saludo;1
+39;Mi deporte favorito es el fútbol.;Saludo;1
+40;¿Puedo ayudarte con algo?;Saludo;1
+41;Si necesitas cualquier cosa, no dudes en pedírmelo.;Saludo;1
+42;¿Quieres que te eche una mano?;Saludo;1
+43;Si necesitas alguien que te ayude a mover muebles, estaré encantado/a de hacerlo.;Saludo;1
+44;¿Te gustaría que te acompañe al médico?;Saludo;1
+45;¿Quieres que te ayude a preparar la cena?;Saludo;1
+46;Si necesitas una persona que te escuche, puedes contar conmigo.;Saludo;1
+47;¿Quieres que te lleve a la estación de tren?;Saludo;1
+48;¿Necesitas ayuda con la mudanza?;Saludo;1
+49;Si necesitas cualquier cosa durante el evento, por favor, házmelo saber.;Saludo;1
+50;Me gusta mucho el color de tu camisa.;Saludo;1
+51;No puedo creer que haya tanto tráfico hoy.;Saludo;1
+52;¿Has leído el último libro de Stephen King?;Saludo;1
+53;Me encanta viajar y conocer nuevas culturas.;Saludo;1
+54;¿Ya has ido a ese nuevo restaurante de comida mexicana?;Saludo;1
+55;¿Te gusta la música clásica?;Saludo;1
+56;Estoy pensando en comprarme un nuevo teléfono móvil.;Saludo;1
+57;¿Tienes planes para el fin de semana?;Saludo;1
+58;La verdad es que no me gusta mucho el invierno.;Saludo;1
+59;Me gustaría visitar algún día la ciudad de Nueva York.;Saludo;1
+60;Hola, ¿cómo estás?;Ayuda;1
+61;Buen día, ¿cómo te va?;Ayuda;1
+62;Buenos días, ¿cómo amaneciste?;Ayuda;1
+63;Hola, ¿qué tal estás?;Ayuda;1
+64;Buenas tardes, ¿cómo ha ido tu día?;Ayuda;1
+65;Hola, ¿qué hay de nuevo?;Ayuda;1
+66;¿Qué tal todo?;Ayuda;1
+67;Hola, ¿cómo te sientes hoy?;Ayuda;1
+68;Buen día, ¿cómo ha estado tu semana?;Ayuda;1
+69;Hola, ¿cómo te ha ido últimamente?;Ayuda;1
+70;El cielo está muy despejado hoy.;Ayuda;1
+71;¿Has visto la última película de terror que salió?;Ayuda;1
+72;¿Qué opinas del cambio climático?;Ayuda;1
+73;Tengo mucho trabajo que hacer hoy.;Ayuda;1
+74;No puedo creer que ya sea marzo.;Ayuda;1
+75;¿Ya hiciste tus compras de la semana?;Ayuda;1
+76;Me encanta leer novelas de misterio.;Ayuda;1
+77;¿Te gustan los animales exóticos?;Ayuda;1
+78;La verdad es que estoy muy cansado/a.;Ayuda;1
+79;Mi deporte favorito es el fútbol.;Ayuda;1
